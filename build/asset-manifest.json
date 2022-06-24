@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deploy-reactapp-typing-game/static/css/main.b7ccc86d.css",
+    "main.js": "/deploy-reactapp-typing-game/static/js/main.3182fb1e.js",
+    "index.html": "/deploy-reactapp-typing-game/index.html",
+    "main.b7ccc86d.css.map": "/deploy-reactapp-typing-game/static/css/main.b7ccc86d.css.map",
+    "main.3182fb1e.js.map": "/deploy-reactapp-typing-game/static/js/main.3182fb1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7ccc86d.css",
+    "static/js/main.3182fb1e.js"
+  ]
+}
