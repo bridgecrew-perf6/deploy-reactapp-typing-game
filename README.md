@@ -2,6 +2,7 @@
 > GitRepo for this game
 
 - How To Use
+- 
 Clone the repo and navigate to the directory of the folder:
 ```linux
 npm install
